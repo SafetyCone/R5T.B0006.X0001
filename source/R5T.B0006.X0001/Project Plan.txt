@@ -1,3 +1,6 @@
-R5T.B0006.X0001 - Generation, initial, simple extensions to ISyntaxGenerator.
+R5T.B0006.X0001 - Generation, initial, simple extensions to ISyntaxGenerator for all three Roslyn syntax element types: SyntaxTrivia, SyntaxTokens, and SyntaxNodes.
 
-GOALS:
+
+* R5T.B0006 - Microsoft.CodeAnalysis package selector.
+* R5T.F0004 - Generation, initial, simple functionality for Roslyn syntax elements.
+* R5T.Z0000 - For Windows new-line and non-Windows new line characters.
